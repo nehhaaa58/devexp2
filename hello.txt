@@ -1,2 +1,7 @@
 Hello github
+ HEAD
 main branch edit
+
+this is a feature branch edit
+to demonstrate the merge conflict
+ feature-branch
