@@ -1,2 +1,3 @@
 Hello github
 this is a feature branch edit
+to demonstrate the merge conflict
